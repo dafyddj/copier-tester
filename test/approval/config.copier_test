@@ -1,0 +1,12 @@
+# Full path to the System Under Test (or Java Main Class name)
+executable:/opt/homebrew/bin/copier
+
+# Naming scheme to use for files for stdin,stdout and stderr
+filename_convention_scheme:standard
+
+# Expanded name to use for application
+full_name:Copier Test
+
+[collate_file]
+*:*
+
