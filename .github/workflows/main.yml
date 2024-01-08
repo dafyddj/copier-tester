@@ -32,7 +32,6 @@ jobs:
           detached: true
       - name: Install test dependencies
         run: |
-          pipx install copier
           pipx install texttest
       - name: Run `texttest`
         run: texttest -b
