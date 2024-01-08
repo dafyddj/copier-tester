@@ -1,1 +1,0 @@
-copy --vcs-ref=HEAD $TEXTTEST_ROOT/.. .
