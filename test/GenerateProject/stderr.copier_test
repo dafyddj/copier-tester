@@ -1,7 +1,7 @@
 /opt/homebrew/Cellar/copier/9.1.0/libexec/lib/python3.12/site-packages/copier/vcs.py:199: DirtyLocalWarning: Dirty template changes included automatically.
   warn(
-No git tags found in template; using HEAD as ref
 
-Copying from template version 0.0.0.post2.dev0+1a88193
+Copying from template version 1.0.0.post1.dev0+9790081
 [36m identical[39m[0m  .
+[32m[1m    create[39m[0m  kitchen.yml
 [32m[1m    create[39m[0m  Dockerfile
