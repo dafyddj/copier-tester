@@ -1,1 +1,1 @@
-copy $TEXTTEST_ROOT/.. .
+copy --vcs-ref=HEAD $TEXTTEST_ROOT/.. .
